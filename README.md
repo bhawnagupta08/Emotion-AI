@@ -22,4 +22,4 @@ The IDs can be used for a secondary analysis to determine
 whether there are any patterns to the submissions.
 
 # Emotions
-The set of emoions used are TBD
+The set of emotions used are TBD
